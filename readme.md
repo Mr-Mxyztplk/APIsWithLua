@@ -63,3 +63,10 @@ C API.
   *Limiting the API and resource access of user
   scripts, including fine-grained constraints
   on CPU and memory consumption.*
+
+
+## More Reading
+
+* https://medium.com/@tylerneylon/make-your-code-scriptable-19be885dda69
+* http://lua-users.org/lists/lua-l/2017-09/msg00092.html
+* https://www.oreilly.com/library/view/creating-solid-apis/9781491986301/
