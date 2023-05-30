@@ -1,0 +1,13 @@
+tmp.lua
+out
+tags
+lua-5.3.3*
+eatyguy
+*.exe
+*.swp
+liblua.a
+*.o
+scratch.md
+*.a
+*.so
+.vimrc
